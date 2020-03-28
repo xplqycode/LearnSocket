@@ -10,7 +10,7 @@ import java.net.Socket;
 import java.net.UnknownHostException;
 
 /*
- * 客户端
+ * 客户端实现
  */
 public class Client {
 	public static void main(String[] args) {
